@@ -1,0 +1,2 @@
+# Newton Rapshon Method
+ 
